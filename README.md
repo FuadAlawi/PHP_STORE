@@ -43,6 +43,4 @@ open http://localhost:8080/index.php
 }
 ```
 
-## Author
 
-Fuad Alawi
